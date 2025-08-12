@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ماشین حساب</string>
+    <string name="title_activity_history">HistoryActivity</string>
+</resources>
